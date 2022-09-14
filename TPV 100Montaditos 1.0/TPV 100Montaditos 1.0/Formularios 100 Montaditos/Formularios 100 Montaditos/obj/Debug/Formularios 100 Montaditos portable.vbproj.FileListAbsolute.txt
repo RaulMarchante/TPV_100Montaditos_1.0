@@ -1,0 +1,75 @@
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.exe.config
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.exe
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.xml
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.pdb
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.exe
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.pdb
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.xml
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.pdb
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.xml
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Caja.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.AñadirItem.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.AdministrarUsuarios.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Inicio.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Productos.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Resources.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbproj.GenerateResource.Cache
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.dll
+G:\2º DAM Fernando Zapatero Diaz\Proyesto\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbprojResolveAssemblyReference.cache
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.exe.config
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.exe
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.pdb
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.xml
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.dll
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.pdb
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.xml
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbprojAssemblyReference.cache
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Caja.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.AñadirItem.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.AdministrarUsuarios.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Inicio.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Productos.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Resources.resources
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbproj.GenerateResource.cache
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbproj.CopyComplete
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.exe
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.xml
+G:\2º DAM Fernando Zapatero Diaz\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.pdb
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.exe.config
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.exe
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.pdb
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.xml
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.dll
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.pdb
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.xml
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbprojAssemblyReference.cache
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Caja.resources
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.AñadirItem.resources
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.AdministrarUsuarios.resources
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Inicio.resources
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Productos.resources
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Resources.resources
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbproj.GenerateResource.cache
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbproj.CopyComplete
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.exe
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.xml
+G:\Proyesto 1.0\Proyesto 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.pdb
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.exe.config
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.exe
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.pdb
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\Formularios 100 Montaditos.xml
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.dll
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.pdb
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\bin\Debug\BC_Montaditos.xml
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbprojAssemblyReference.cache
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Caja.resources
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.AñadirItem.resources
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.AdministrarUsuarios.resources
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Inicio.resources
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Productos.resources
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios_100_Montaditos.Resources.resources
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbproj.GenerateResource.cache
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos portable.vbproj.CopyComplete
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.exe
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.xml
+G:\TPV 100Montaditos 1.0\TPV 100Montaditos 1.0\Formularios 100 Montaditos\Formularios 100 Montaditos\obj\Debug\Formularios 100 Montaditos.pdb

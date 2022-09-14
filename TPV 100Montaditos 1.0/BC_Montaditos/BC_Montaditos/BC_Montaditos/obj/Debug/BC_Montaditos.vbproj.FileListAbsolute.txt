@@ -1,0 +1,17 @@
+C:\VisualBasic\BC_Montaditos\BC_Montaditos\bin\Debug\BC_Montaditos.dll
+C:\VisualBasic\BC_Montaditos\BC_Montaditos\bin\Debug\BC_Montaditos.pdb
+C:\VisualBasic\BC_Montaditos\BC_Montaditos\bin\Debug\BC_Montaditos.xml
+C:\VisualBasic\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.vbprojAssemblyReference.cache
+C:\VisualBasic\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.Resources.resources
+C:\VisualBasic\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.vbproj.GenerateResource.cache
+C:\VisualBasic\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.dll
+C:\VisualBasic\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.xml
+C:\VisualBasic\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.pdb
+G:\BC_Montaditos\BC_Montaditos\bin\Debug\BC_Montaditos.dll
+G:\BC_Montaditos\BC_Montaditos\bin\Debug\BC_Montaditos.pdb
+G:\BC_Montaditos\BC_Montaditos\bin\Debug\BC_Montaditos.xml
+G:\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.Resources.resources
+G:\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.vbproj.GenerateResource.cache
+G:\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.dll
+G:\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.xml
+G:\BC_Montaditos\BC_Montaditos\obj\Debug\BC_Montaditos.pdb
